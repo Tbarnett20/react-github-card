@@ -1,0 +1,17 @@
+.card-space {
+  margin: 1em;
+}
+
+img {
+  width: 75px;
+}
+
+.info {
+display: inline-block;
+margin-left: 10px;
+}
+
+.name {
+  font-size: 1.25em;
+  font-weight: bold;
+}
